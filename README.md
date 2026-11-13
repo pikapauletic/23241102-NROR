@@ -3,7 +3,7 @@
 Program v MATLAB-u prebere mrežo, izriše vhodne podatke, sestavi redko matriko **A** in vektor **b**, izračuna `T = A\b` ter A in b zapiše v binarno datoteko.
 
 ## Mape
-- `matlab/lopatica_Faza1NROR.m` – program (branje, izris, A in b, binarni izvoz in preverjanje)
+- `matlab/Faza1NROR.m` – program (branje, izris, A in b, binarni izvoz in preverjanje)
 - `podatki/` – `lopatica_mreza.txt`,`lopatica_mreza_r1.txt`, `lopatica_mreza_r2.txt`, `lopatica_mreza_r3.txt`  (inženirski primeri), `primer_predloga_projekt.txt` (zgled)
 - `binarno/` – zapis sistema za vse primere
 - `porocilo/` – poročilo (`porocilo.pdf`)
